@@ -1,0 +1,10 @@
+/* BerryRotunda, sans-serif (gut lesbares Blackletter) */
+
+@font-face {
+  font-family: BerryRotunda;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/3b3583f3e0958a5e2a293e23467cde7ba5189fe2/Berry%20Rotunda.ttf);
+}
+
+
