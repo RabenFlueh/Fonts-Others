@@ -20,3 +20,19 @@
 }
 
 
+
+
+
+/* Friedolin, sans-serif (leicht wilderes Blackletter) */
+
+@font-face {
+  font-family: Friedolin;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/781fe3e100127b6f34450be4e485b85975a26459/Friedolin.ttf);
+}
+
+
+
+
+
