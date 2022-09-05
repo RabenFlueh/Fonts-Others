@@ -1,10 +1,10 @@
-/* BerryRotunda, sans-serif (gut lesbares Blackletter) */
+/* JenaGotisch, sans-serif (Verspieltes Blackletter) */
 
 @font-face {
-  font-family: BerryRotunda;
+  font-family: JenaGotisch;
   font-style: normal;
   font-weight: 400;
-  src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/3b3583f3e0958a5e2a293e23467cde7ba5189fe2/Berry%20Rotunda.ttf);
+  src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/f53cefe04109b487c15b803c1614ce64f7068899/JenaGotisch.ttf);
 }
 
 
@@ -31,7 +31,6 @@
   font-weight: 400;
   src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/781fe3e100127b6f34450be4e485b85975a26459/Friedolin.ttf);
 }
-
 
 
 
