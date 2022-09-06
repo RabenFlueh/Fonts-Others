@@ -1,16 +1,30 @@
-/* JenaGotisch, sans-serif (Verspieltes Blackletter) */
+/*
+=====================================================
 
-@font-face {
-  font-family: JenaGotisch;
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/f53cefe04109b487c15b803c1614ce64f7068899/JenaGotisch.ttf);
-}
+			https://github.com/
+
+1. LOAD Font
+2. SELECT it and COPY http
+3. PASTE it into the First Space (up) of:
+
+			https://raw.githack.com/
+			
+5. COPY result FROM Second Space ('Production')
+6. Go back and SELECT to EDIT 'README.css'
+7. PASTE and add it to a new @font-face
+8. COPY that and PASTE it in the CSS of WorldAnvil 
+
+Enjoy!
+
+=====================================================
+*/
+
+ 
 
 
-
-
-/* Chomsky, sans-serif (eckig/schäleres Blackletter) */
+/*-------—----—-------------—-----—----—-—---------—---—----------------
+   Chomsky, sans-serif // Blackletter. Kantig und Klassisch
+-------—----—-------------—-----—----—-—---------—---—----------------*/
 
 @font-face {
   font-family: Chomsky;
@@ -19,11 +33,52 @@
   src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/58ff3a5910409ebe9ac39d0903d8ac1447b092c1/Chomsky.woff2);
 }
 
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 
 
 
-/* Friedolin, sans-serif (leicht wilderes Blackletter) */
+
+
+/*-------—----—-------------—-----—----—-—---------—---—----------------
+   PommernGotisch, serif // Blackletter. Kantig und leicht Dramatisch
+-------—----—-------------—-----—----—-—---------—---—----------------*/
+
+@font-face {
+  font-family: PommernGotisch;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/65b7fbf7ac375086a22267aef83ed5c871e38842/PommernGotisch.ttf);
+}
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
+
+
+
+
+/*-------—----—-------------—-----—----—-—---------—---—----------------
+   GotischWeiss, serif // Blackletter. Kantig und Klassisch
+-------—----—-------------—-----—----—-—---------—---—----------------*/
+
+@font-face {
+  font-family: GotischWeiss;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/65b7fbf7ac375086a22267aef83ed5c871e38842/Gotisch%20Weiss%20a.ttf);
+}
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
+
+
+
+
+/*-------—----—-------------—-----—----—-—---------—---—----------------
+   Friedolin, sans-serif // Blackletter. Vampirisch
+-------—----—-------------—-----—----—-—---------—---—----------------*/
 
 @font-face {
   font-family: Friedolin;
@@ -31,6 +86,46 @@
   font-weight: 400;
   src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/781fe3e100127b6f34450be4e485b85975a26459/Friedolin.ttf);
 }
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
+
+
+
+
+/*-------—----—-------------—-----—----—-—---------—---—----------------
+   JenaGotisch, serif // Blackletter. Blumig
+-------—----—-------------—-----—----—-—---------—---—----------------*/
+
+@font-face {
+  font-family: JenaGotisch;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/RabenFlueh/Fonts-Others/f53cefe04109b487c15b803c1614ce64f7068899/JenaGotisch.ttf);
+}
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
+
+
+
+
+/*-------—----—-------------—-----—----—-—---------—---—----------------
+   
+-------—----—-------------—-----—----—-—---------—---—----------------*/
+
+@font-face {
+  font-family: ;
+  font-style: normal;
+  font-weight: 400;
+  src: url();
+}
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
 
 
 
